@@ -1,0 +1,138 @@
+/* body {
+  text-align: center;
+  margin: 0;
+}
+.top-container {
+  background-color: #CDF0EA;
+  position: relative;
+  margin-top: 0;
+}
+p{
+  font-family: serif;
+}
+.bottom-cloud {
+  position: absolute;
+  margin-top: 50px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  margin-top: 0;
+}
+.profile-text{
+  text-align: center;
+}
+h1 {
+  font-size: 5.625rem;
+  position: relative;
+  color: #66BFBF;
+  font-family: 'Sacramento', serif;
+  margin-top:0;
+  padding-top:  100px;
+
+}
+
+h2 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 2.5rem;
+  margin-bottom: 0;
+  color: #66BFBF;
+
+}
+.Web-development-photo{
+  float:left;
+  margin-right:30px;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.game-photo{
+  float:right;
+  margin-left: 30px;
+}
+
+.footer-link{
+  color: #11999E;
+}
+.a-programmer{
+  font-weight: normal;
+}
+hr {
+  width: 200px;
+  border-style: dotted None None None;
+  border-width: 20px;
+  height: 0;
+  padding: 0;
+}
+ .code-skill-paragraph{
+  clear:left;
+}
+.second-skill-paragraph{
+  clear:right;
+} */
+/* .skill-header{
+  margin-left: 30px;
+}
+.skill-paragraph{
+  margin-left: 50px;
+
+}
+.skill-row{
+  position:relative;
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.skill-photo{
+  width: 25%;
+
+}
+
+p{
+  line-height: 2;
+}
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.pro {
+  text-decoration: underline;
+} */
+body{
+  margin: 0;
+}
+.top-container{
+  background-color: #DEEDF0;
+  text-align: center;
+}
+h1{
+  padding-top: 5%;
+  margin-top: 0;
+  font-weight: bold;
+  font-size: 500%;
+color: #66BFBF;
+  font-family: 'Sacramento', serif;
+}
+h2{
+  font-family: 'Libre Baskerville', serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  color: #40514E;
+}
+.pro{
+  text-decoration: underline;
+}
+.top-cloud{
+  position:absolute;
+}
